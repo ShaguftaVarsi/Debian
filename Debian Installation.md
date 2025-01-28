@@ -73,11 +73,16 @@ Keep the **HTTP proxy information** empty and continue.
 
 <img src="https://github.com/user-attachments/assets/fa4a9839-6d57-4c2b-ab27-f6b675e9070c" alt="Description" width="300"/>
 
+Now let the system reboot, open BIOS settings before it boots or else _Debian installation will be done again_.
+
+Search for Boot options and choose the **HardDisk** as your Boot Option #1. Save configurations and exit.
+
+
 <img src="https://github.com/user-attachments/assets/6a3e06e6-046d-4440-96d8-073628d4c1c0" alt="Description" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/a8d171fb-d625-47f0-90f0-830b86b8bac6" alt="Description" width="300"/>
 
-
+Debian Instalation is done. Well Done 👍
 
 
 
