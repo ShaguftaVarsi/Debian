@@ -69,33 +69,13 @@ Keep the **HTTP proxy information** empty and continue.
 
 <img src="https://github.com/user-attachments/assets/b283b241-a654-4fbc-afa2-f55e58430536" alt="Description" width="300"/>
 
-<img src="" alt="Description" width="300"/>
+<img src="https://github.com/user-attachments/assets/e5c00a45-ced4-4133-8e95-2172f91861a1" alt="Description" width="300"/>
 
-<img src="" alt="Description" width="300"/>
+<img src="https://github.com/user-attachments/assets/fa4a9839-6d57-4c2b-ab27-f6b675e9070c" alt="Description" width="300"/>
 
-<img src="" alt="Description" width="300"/>
+<img src="https://github.com/user-attachments/assets/6a3e06e6-046d-4440-96d8-073628d4c1c0" alt="Description" width="300"/>
 
-<img src="" alt="Description" width="300"/>
-
-<img src="" alt="Description" width="300"/>
-
-
-
-![20250128_100824](
-
-![20250128_100836](
-
-![20250128_101115](
-
-![20250128_101354]()
-
-![20250128_101405](https://github.com/user-attachments/assets/e5c00a45-ced4-4133-8e95-2172f91861a1)
-
-![20250128_101709](https://github.com/user-attachments/assets/fa4a9839-6d57-4c2b-ab27-f6b675e9070c)
-
-![20250128_101746](https://github.com/user-attachments/assets/6a3e06e6-046d-4440-96d8-073628d4c1c0)
-
-![20250128_101805](https://github.com/user-attachments/assets/a8d171fb-d625-47f0-90f0-830b86b8bac6)
+<img src="https://github.com/user-attachments/assets/a8d171fb-d625-47f0-90f0-830b86b8bac6" alt="Description" width="300"/>
 
 
 
