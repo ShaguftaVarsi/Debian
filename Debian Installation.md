@@ -46,7 +46,28 @@ Keep the `Domain name` empty and continue.
 
 <img src="https://github.com/user-attachments/assets/29b1b518-343c-47be-922c-9e10beb6a7d0" alt="Description" width="300"/>
 
-<img src="" alt="Description" width="300"/>
+<img src="https://github.com/user-attachments/assets/d042dc78-e256-410f-b421-88c12332174d" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/b05a61d1-250b-4492-9edc-a4af8c360e88" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/7a4f472a-4db5-499c-bb6c-a559931b3893" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/2c28c86a-5bd9-4534-a6f0-0eeedf812612" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/a3aec4b6-59cb-4b7a-9a5e-e34ed8e4f942" alt="Description" width="300"/>
+
+Keep the **HTTP proxy information** empty and continue.
+
+<img src="https://github.com/user-attachments/assets/830bc7c8-eaba-4d01-8025-47a73735765a" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/49926b98-d489-456b-9438-caf639ab3571" alt="Description" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/1192163e-7557-4e6e-9d93-bd71483dc491" alt="Description" width="300"/>
+
+> [!Important] 
+> Select the exact options given below.
+
+<img src="https://github.com/user-attachments/assets/b283b241-a654-4fbc-afa2-f55e58430536" alt="Description" width="300"/>
 
 <img src="" alt="Description" width="300"/>
 
@@ -56,26 +77,17 @@ Keep the `Domain name` empty and continue.
 
 <img src="" alt="Description" width="300"/>
 
+<img src="" alt="Description" width="300"/>
 
 
 
-![20250128_100225](https://github.com/user-attachments/assets/d042dc78-e256-410f-b421-88c12332174d)
+![20250128_100824](
 
-![20250128_100237](https://github.com/user-attachments/assets/b05a61d1-250b-4492-9edc-a4af8c360e88)
+![20250128_100836](
 
-![20250128_100324](https://github.com/user-attachments/assets/7a4f472a-4db5-499c-bb6c-a559931b3893)
+![20250128_101115](
 
-![20250128_100759](https://github.com/user-attachments/assets/2c28c86a-5bd9-4534-a6f0-0eeedf812612)
-
-![20250128_100812](https://github.com/user-attachments/assets/a3aec4b6-59cb-4b7a-9a5e-e34ed8e4f942)
-
-![20250128_100824](https://github.com/user-attachments/assets/830bc7c8-eaba-4d01-8025-47a73735765a)
-
-![20250128_100836](https://github.com/user-attachments/assets/49926b98-d489-456b-9438-caf639ab3571)
-
-![20250128_101115](https://github.com/user-attachments/assets/1192163e-7557-4e6e-9d93-bd71483dc491)
-
-![20250128_101354](https://github.com/user-attachments/assets/b283b241-a654-4fbc-afa2-f55e58430536)
+![20250128_101354]()
 
 ![20250128_101405](https://github.com/user-attachments/assets/e5c00a45-ced4-4133-8e95-2172f91861a1)
 
